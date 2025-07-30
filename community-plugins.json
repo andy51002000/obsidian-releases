@@ -18030,5 +18030,12 @@
     "author": "Blue Heron",
     "description": "Provides methods to retrieve statistics about the vault, such as the number of notes, total word count, recently modified notes, and more.",
     "repo": "blueheron786/obsidian-stats-plugin"
+  },
+  {
+    "id": "image-link-updater",
+    "name": "Image Link Updater",
+    "author": "Andy Lau",
+    "description": "Automatically updates markdown image links when image files are renamed or moved in the vault.",
+    "repo": "andy51002000/obsidian-image-link-updater"
   }
 ]
